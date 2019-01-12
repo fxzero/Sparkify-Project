@@ -1,6 +1,6 @@
 # Sparkify project
 
-This is udacity's capstone project, using spark to analyze user behavior data from music app Sparkify.
+This is udacity's capstone project, using spark to analyze user behavior data from music app Sparkify. I post a blog about this, you can find it [here](https://medium.com/@fxzero/some-tips-of-using-spark-to-predict-user-churn-eb7e5846b0c5).
 
 ### Project Overview
 
